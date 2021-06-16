@@ -6,7 +6,11 @@
   "author": "Chris McAnally <chris@adadevelopersacademy.org>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
   }
 }
